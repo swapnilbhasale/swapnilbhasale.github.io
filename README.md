@@ -1,4 +1,4 @@
 # swapnilbhasale.github.io
 My Personal Website
 
-![Link](https://swapnilbhasale.github.io/)
+> https://swapnilbhasale.github.io/
